@@ -28,7 +28,9 @@ This project is an Email Template Builder that allows users to create, save, and
 1. Start the development server:
 
     ```sh
-    npm start
+    npm run dev (for vite)
+
+    node server/index.js   (for backend server)
     ```
 
 2. Open your browser and navigate to `http://localhost:3000`.
