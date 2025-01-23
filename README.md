@@ -1,6 +1,6 @@
 # Email Template Builder
 
-This project is an Email Template Builder that allows users to create, save, and render email templates. It also supports image uploads
+This project is an Email Template Builder that allows users to create, save, and render email templates. It also supports image uploads!
 
 ## Prerequisites
 
